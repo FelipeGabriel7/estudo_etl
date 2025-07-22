@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "etl-estudo"
+version = "1.0.0"
+description = ""
+authors = ["Felipe Gabriel <88352349+FelipeGabriel7@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.47.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
